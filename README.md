@@ -24,7 +24,7 @@ This repository presents a machine learning solution for predicting customer chu
 | `Python ML notebook 1.ipynb` | Data loading, cleaning, feature engineering, initial modeling |
 | `Python ML notebook 2.ipynb` | Model tuning, evaluation metrics, interpretability (SHAP), final recommendations |
 | `telecom_customer_churn_data.xlsx` | Original telecom customer churn dataset |
-| `telecom_customer_churn_data.xlsx` | Original Power Point Presentation |
+| `Customer Churn Analysis.pptx` | Original Power Point Presentation |
 
 ---
 
@@ -47,7 +47,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn eli5 or SHAP
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/telecom-churn-prediction.git
+git clone https://github.com/Comhek0369/Customer-Churn-Analysis-for-Telecom-Industry.git
 cd telecom-churn-prediction
 ```
 
